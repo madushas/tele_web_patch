@@ -4,10 +4,10 @@ patches {
     about {
         name = "Telegram Web 10.2.0 Patches"
         description = "Patches for Telegram Web (org.telegram.messenger.web) 10.2.0."
-        source = "https://github.com/tele-web/tele_web_patch"
-        author = "tele-web"
-        contact = "https://github.com/tele-web/tele_web_patch"
-        website = "https://morphe.software/add-source?github=tele-web/tele_web_patch"
+        source = "https://github.com/madushas/tele_web_patch"
+        author = "madushas"
+        contact = "https://github.com/madushas/tele_web_patch"
+        website = "https://morphe.software/add-source?github=madushas/tele_web_patch"
         license = "GPLv3"
     }
 }
